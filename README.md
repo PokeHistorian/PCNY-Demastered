@@ -26,7 +26,7 @@ Filenames may also include the (r) suffix to denote *restoration* to .pk3 from .
 
 PCNYc 00062 Seadra (Ice beam) [Bashful] -GoldUrsaring (r).pk3
 
-The product contrasts with, for example, the aforementioned PP GitHub, where only third-party restorations to pristine .pk3 format are hosted, but without accompanying documentation <I>which</I> PCNY underwent such treatment, and from what condition.
+The product contrasts with, for example, the aforementioned PP GitHub, where only third-party restorations to pristine .pk3 format are hosted, moreover without accompanying documentation <I>which</I> PCNY underwent such treatment, and from what condition.
 
 In terms of limitations, this repository can only include PCNY Pokémon that are currently in the public domain.
 
