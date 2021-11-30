@@ -10,21 +10,21 @@ In so doing, this repository may be considered the file archive complement to th
 
 The result is filenames that look as follows:
 
-PCNYc 00062 Kingdra (Ice beam) [Bashful] -GoldUrsaring (t).pk4 
+PCNYd 00079 Salamence (Thrash) [Lonely] -GoldUrsaring (t).pk4
 
 Where each element indicates:
 
-- PCNYc: Trainer Name PCNY b/c/d.
-- 00062: TID number, ranging from 00001 to a theoretical maximum of 65535, but a practical upper limit of an estimated 01400.
-- Kingdra: Species name.
-- (Ice Beam): Moveset variant where applicable, currently only to BC and CD Dragon variants.
-- [Bashful]: Pokémon nature.
+- PCNYd: Trainer Name PCNY b/c/d.
+- 00079: TID number, ranging from 00001 to a theoretical maximum of 65535, but a practical upper limit of an estimated 01400.
+- Salamence: Species name.
+- (Thrash): Moveset variant where applicable, currently only to BC and CD Dragon variants.
+- [Lonely]: Pokémon nature.
 - -GoldUrsaring: Documented original owner, ie. the individual who claimed the Pokémon at PokeCenter New York in 2003-5. Left blank where unknown.
 - (t): Indicates that a Pokémon was "touched", to invoke event collector jargon, meaning that one or more of its qualities (e.g. moveset, level, EVs, experience points) was altered from pristine "untouched" condition as dispensed from PCNY equipment by its original owner(s) prior to the Pokémon's documentation.
 
 Filenames may also include the (r) suffix to denote *restoration* to .pk3 from .pk4/.pk6/.pkm <u>and/or</u> reversal of modifications to moveset, level, experience points, EVs, etc. Like so:
 
-PCNYc 00062 Seadra (Ice beam) [Bashful] -GoldUrsaring (r).pk3
+PCNYd 00079 Salamence (Thrash) [Lonely] -GoldUrsaring (r).pk3
 
 The product contrasts with, for example, the aforementioned PP GitHub, where only third-party restorations to pristine .pk3 format are hosted, moreover without accompanying documentation <I>which</I> PCNY underwent such treatment, and from what condition.
 
