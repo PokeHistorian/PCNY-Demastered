@@ -19,7 +19,7 @@ Where each element indicates:
 - Kingdra: Species name.
 - (Ice Beam): Moveset variant where applicable, currently only to BC and CD Dragon variants.
 - [Bashful]: Pokémon nature.
-- -GoldUrsaring: Documented original owner, ie. the individual who claimed the Pokémon at PCNY in 2003-5. Left blank where unknown.
+- -GoldUrsaring: Documented original owner, ie. the individual who claimed the Pokémon at PokeCenter New York in 2003-5. Left blank where unknown.
 - (t): Indicates that a Pokémon was "touched", to invoke event collector jargon, meaning that one or more of its qualities (e.g. moveset, level, EVs, experience points) was altered from pristine "untouched" condition as dispensed from PCNY equipment by its original owner(s) prior to the Pokémon's documentation.
 
 Filenames may also include the (r) suffix to denote *restoration* to .pk3 from .pk4/.pk6/.pkm <u>and/or</u> reversal of modifications to moveset, level, experience points, EVs, etc. Like so:
