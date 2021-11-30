@@ -17,7 +17,7 @@ Where each element indicates:
 - PCNYd: Trainer Name PCNY b/c/d.
 - 00079: TID number, ranging from 00001 to a theoretical maximum of 65535, but a practical upper limit of an estimated 01400.
 - Salamence: Species name.
-- (Thrash): Moveset variant where applicable, currently only to BC and CD Dragon variants.
+- (Thrash): Moveset variant where applicable, currently only to BC/CD Dragon and Box Absol variants.
 - [Lonely]: Pokémon nature.
 - -GoldUrsaring: Documented original owner, ie. the individual who claimed the Pokémon at PokeCenter New York in 2003-5. Left blank where unknown.
 - (t): Indicates that a Pokémon was "touched", to invoke event collector jargon, meaning that one or more of its qualities (e.g. moveset, level, EVs, experience points) was altered from pristine "untouched" condition as dispensed from PCNY equipment by its original owner(s) prior to the Pokémon's documentation.
